@@ -1,0 +1,1 @@
+이슈를 생성한 뒤 그 이슈에서 development에서 create branch 수행
